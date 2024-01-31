@@ -1,1 +1,1 @@
-# MEMNET-Selective-memory-with-attention-mechanism
+# MEMNET: Selective-memory-with-attention-mechanism
